@@ -1,47 +1,108 @@
 {
-  "businessName": "Sample Business",
-  "tagline": "Quality Service You Can Trust",
+  "businessName": "La Esquina Restaurant",
+  "tagline": "Authentic Salvadoran & Mexican Cuisine",
   "hero": {
-    "heading": "Welcome to Our Business",
-    "subheading": "Professional service in your area.",
-    "ctaText": "Contact Us",
-    "ctaLink": "#contact"
+    "heading": "Sabor Auténtico on Division Street",
+    "subheading": "Salvadoran pupusas, Mexican favorites, and the kind of home-cooked Latin food that brings the whole neighborhood together. 251 five-star reviews in Cypress Park.",
+    "ctaText": "Call to Order",
+    "ctaLink": "tel:3232211571",
+    "backgroundImage": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepsSBjM6ob8qzmm8J4DoAiz1gg9XwEMKdtHi6E8LmUUFD-J7M16szcbkQ9v7HzpbznHxrCzy4sVDHEkhH8a28pFV9wss_I19avqQO71yJkL9rznt_OtjxpuXY7nt6gqyclhjlwB2g=w426-h240-k-no"
   },
   "about": {
-    "heading": "About Us",
+    "heading": "The Corner That Feeds the Block",
     "paragraphs": [
-      "We are a local business dedicated to providing quality service.",
-      "Our team has years of experience and we take pride in our work."
+      "La Esquina Restaurant has been the heart of Division Street for years — a family-run kitchen serving authentic Salvadoran and Mexican dishes that taste exactly like they should. From our hand-pressed pupusas to our slow-cooked stews, everything is made from scratch with recipes that go back generations.",
+      "With 251 reviews and a 4.3-star rating, we've built our reputation the old-fashioned way: one plate at a time. Our regulars come for the pupusas, stay for the tamales, and always leave with a full stomach and a smile.",
+      "Open 9 AM to 7 PM, seven days a week. Come hungry."
     ]
   },
   "services": [
-    { "title": "Service One", "description": "Professional service with attention to detail.", "icon": "star" },
-    { "title": "Service Two", "description": "Quality work at competitive prices.", "icon": "award" },
-    { "title": "Service Three", "description": "Fast, reliable, and thorough.", "icon": "check" }
-  ],
-  "contact": {
-    "address": "123 Main St, City, ST 12345",
-    "phone": "(555) 123-4567",
-    "email": "info@sample.com",
-    "hours": {
-      "Monday": "9:00 AM - 5:00 PM",
-      "Tuesday": "9:00 AM - 5:00 PM",
-      "Wednesday": "9:00 AM - 5:00 PM",
-      "Thursday": "9:00 AM - 5:00 PM",
-      "Friday": "9:00 AM - 5:00 PM",
-      "Saturday": "10:00 AM - 3:00 PM",
-      "Sunday": "Closed"
+    {
+      "title": "Pupusas",
+      "description": "Hand-pressed and griddled to perfection — stuffed with cheese, beans, chicharrón, loroco, or revueltas. Served with curtido and salsa roja.",
+      "icon": "Circle"
     },
-    "mapEmbedQuery": "123+Main+St+City+ST"
+    {
+      "title": "Mexican Classics",
+      "description": "Tacos, burritos, enchiladas, quesadillas, and tortas made fresh with your choice of meat and house salsas.",
+      "icon": "Flame"
+    },
+    {
+      "title": "Salvadoran Specialties",
+      "description": "Yuca frita, tamales de elote, plátanos fritos, sopa de res, and weekend specials that sell out early.",
+      "icon": "Star"
+    },
+    {
+      "title": "Breakfast & Drinks",
+      "description": "Desayunos típicos, huevos con frijoles, fresh horchata, tamarindo, and café de olla to start your day.",
+      "icon": "Coffee"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Carmen L.",
+      "text": "The best pupusas in LA. They're thick, perfectly crispy, and the curtido is fresh. My family has been coming here for years.",
+      "rating": 5
+    },
+    {
+      "name": "Eduardo R.",
+      "text": "Authentic Salvadoran food that reminds me of home. The sopa de res on weekends is a must.",
+      "rating": 5
+    },
+    {
+      "name": "Maria T.",
+      "text": "This is our go-to spot. Great food, huge portions, and the prices are so reasonable. You can feed a family for $30.",
+      "rating": 5
+    },
+    {
+      "name": "Jose G.",
+      "text": "The tamales here are legendary. My mom says they're as good as hers, which is the highest compliment.",
+      "rating": 5
+    },
+    {
+      "name": "Sandra M.",
+      "text": "La Esquina is a neighborhood treasure. Simple, honest food made by people who care. Don't miss it.",
+      "rating": 5
+    }
+  ],
+  "gallery": {
+    "heading": "From Our Kitchen",
+    "images": [
+      {
+        "src": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepsSBjM6ob8qzmm8J4DoAiz1gg9XwEMKdtHi6E8LmUUFD-J7M16szcbkQ9v7HzpbznHxrCzy4sVDHEkhH8a28pFV9wss_I19avqQO71yJkL9rznt_OtjxpuXY7nt6gqyclhjlwB2g=w426-h240-k-no",
+        "alt": "La Esquina Restaurant food"
+      }
+    ]
+  },
+  "contact": {
+    "address": "3301 Division St, Los Angeles, CA 90065",
+    "phone": "(323) 221-1571",
+    "email": "info@laesquinarestaurant.com",
+    "hours": {
+      "Monday": "9:00 AM - 7:00 PM",
+      "Tuesday": "9:00 AM - 7:00 PM",
+      "Wednesday": "9:00 AM - 7:00 PM",
+      "Thursday": "9:00 AM - 7:00 PM",
+      "Friday": "9:00 AM - 7:00 PM",
+      "Saturday": "9:00 AM - 7:00 PM",
+      "Sunday": "9:00 AM - 7:00 PM"
+    },
+    "mapEmbedQuery": "La Esquina Restaurant 3301 Division St Los Angeles CA 90065"
   },
   "seo": {
-    "title": "Sample Business | City, ST",
-    "description": "Sample Business in City, ST. Professional services you can trust.",
-    "keywords": ["sample business", "city ST", "professional services"]
+    "title": "La Esquina Restaurant | Salvadoran & Mexican Food in Cypress Park LA",
+    "description": "Authentic pupusas, tacos, tamales, and Salvadoran specialties on Division Street. 251 reviews. Open 9 AM to 7 PM daily.",
+    "keywords": [
+      "Salvadoran restaurant Los Angeles",
+      "pupusas Cypress Park",
+      "Mexican food Division Street",
+      "La Esquina Restaurant",
+      "Latin food near me"
+    ]
   },
   "theme": {
-    "primaryColor": "#0a0a0a",
-    "accentColor": "#c8a97e",
-    "fontFamily": "modern"
+    "primaryColor": "#faf7f2",
+    "accentColor": "#b91c1c",
+    "fontFamily": "friendly"
   }
 }
